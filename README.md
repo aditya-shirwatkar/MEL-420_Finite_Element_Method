@@ -1,5 +1,5 @@
 # MEL-420 Finite Element Method
-Some MATLAB Code that I wrote for doing structural analysis using FEM
+Some MATLAB Code that I wrote during the academic course for doing structural analysis using FEM
 
 - [x] 1D Beam problem
 - [x] 2D Truss problem
